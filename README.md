@@ -1,4 +1,4 @@
-Meu primeiro commit no arquivo. corrigindo coisa aqui.
+Meu primeiro commit no arquivo. corrigindo coisa aqui.teste......
 
 Alterando o conteudo do arquivo
 
